@@ -1,0 +1,15 @@
+{
+    "vsicons.presets.jsonOfficial": true,
+    
+    "python.languageServer": "Pylance",
+    "python.analysis.typeCheckingMode": "basic",
+    "files.associations": {
+        "**/*.html": "html",
+        "**/templates/**/*.html": "django-html",
+        "**/templates/**/*": "django-html",
+        "**/requirements{/**,*).{txt,in}}": "pip-requirements",
+    },
+    "emmet.includeLanguages": {
+        "django-html": "html",
+    }
+}

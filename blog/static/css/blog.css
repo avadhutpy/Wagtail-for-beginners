@@ -1,0 +1,13 @@
+body, html{
+    margin: 0;
+    padding: 0;
+}
+
+.block-heading{
+    font-size: 40px;
+}
+.block-image img{
+    width: 100%;
+    height: auto;
+
+}
